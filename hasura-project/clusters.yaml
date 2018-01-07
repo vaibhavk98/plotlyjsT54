@@ -1,0 +1,7 @@
+- alias: dev
+  config:
+    configmap: controller-conf
+    namespace: bearishness40-hasura
+  data: null
+  kubeContext: bearishness40
+  name: bearishness40
