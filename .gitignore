@@ -3,3 +3,6 @@
 # directory
 /hasura-project
 
+# dependencies
+/node_modules
+
