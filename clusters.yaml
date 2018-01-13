@@ -1,7 +1,0 @@
-- alias: hasura
-  config:
-    configmap: controller-conf
-    namespace: against99-hasura
-  data: null
-  kubeContext: against99
-  name: against99
