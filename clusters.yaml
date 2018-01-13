@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: adumbration35-hasura
+  data: null
+  kubeContext: adumbration35
+  name: adumbration35
